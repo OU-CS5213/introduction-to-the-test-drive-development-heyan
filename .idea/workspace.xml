@@ -1,35 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="a0e3be21-6bb8-4e23-9146-535b7258c216" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/my-tddtest/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/my-tddtest/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/my-tddtest/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/my-tddtest/.idea/jarRepositories.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/my-tddtest/.idea/libraries/Maven__junit_junit_4_11.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/my-tddtest/.idea/libraries/Maven__org_apiguardian_apiguardian_api_1_1_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/my-tddtest/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/my-tddtest/.idea/libraries/Maven__org_jetbrains_annotations_13_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/my-tddtest/.idea/libraries/Maven__org_jetbrains_kotlin_kotlin_stdlib_1_4_20.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/my-tddtest/.idea/libraries/Maven__org_jetbrains_kotlin_kotlin_stdlib_common_1_4_20.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/my-tddtest/.idea/libraries/Maven__org_jetbrains_kotlin_kotlin_stdlib_jdk7_1_4_20.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/my-tddtest/.idea/libraries/Maven__org_jetbrains_kotlin_kotlin_stdlib_jdk8_1_4_20.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/my-tddtest/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_5_8_0_M1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/my-tddtest/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_api_5_8_0_M1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/my-tddtest/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_engine_5_8_0_M1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/my-tddtest/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_params_5_8_0_M1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/my-tddtest/.idea/libraries/Maven__org_junit_platform_junit_platform_commons_1_8_0_M1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/my-tddtest/.idea/libraries/Maven__org_junit_platform_junit_platform_engine_1_8_0_M1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/my-tddtest/.idea/libraries/Maven__org_opentest4j_opentest4j_1_2_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/my-tddtest/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/my-tddtest/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/my-tddtest/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/my-tddtest/my-tddtest.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/my-tddtest/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/my-tddtest/src/main/java/com/heyan/testdd/AWS.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/my-tddtest/src/test/java/com/heyan/testdd/AWSTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/my-tddtest/target/classes/com/heyan/testdd/AWS.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/my-tddtest/target/test-classes/com/heyan/testdd/AWSTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/introduction-to-the-test-drive-development-heyan.iml" beforeDir="false" afterPath="$PROJECT_DIR$/introduction-to-the-test-drive-development-heyan.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/heyan/testdd/AWS.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/heyan/testdd/AWS.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,6 +18,14 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
   </component>
   <component name="ProjectId" id="1pH0LGC2d5qAAFbW0HTAN3jsqvG" />
   <component name="ProjectLevelVcsManager">
@@ -56,7 +44,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/my-tddtest" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.0" />

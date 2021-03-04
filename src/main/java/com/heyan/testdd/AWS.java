@@ -14,7 +14,16 @@ public class AWS {
     public void setValues(int[] values) {
         this.values = Arrays.copyOf(values, values.length);
     }
-
+    public void removeBiggerThan(int threshold)
+    {
+        for(int bPtr : values)
+        {
+            if(bPtr > threshold)
+            {
+                bPtr = FILLER_VALUE;
+            }
+        }
+    }
     @Override
     public String toString() {
         return "AWS [values=" + Arrays.toString(values) + "]";
