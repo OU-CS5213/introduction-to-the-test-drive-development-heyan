@@ -14,7 +14,6 @@
       <change afterPath="$PROJECT_DIR$/lib/opentest4j-1.1.1.jar" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/AWSTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/AWSTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/introduction-to-the-test-drive-development-heyan/AWSTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/introduction-to-the-test-drive-development-heyan/AWSTest.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
