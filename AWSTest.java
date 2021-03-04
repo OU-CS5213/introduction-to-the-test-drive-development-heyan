@@ -25,7 +25,12 @@ class AWSTest {
 
 	@Test
 	void testSetValues() {
-		fail("Not yet implemented");
+		int[] value_expected = {1, 2, 3};
+		int[] readytoset = {1, 2, 4};
+		AWS aws = new AWS(value_expected);
+		aws.setValues(readytoset);
+		int[] actual = aws.getValues();
+		assertEquals(actual[2], 4);
 	}
 
 	@Test
