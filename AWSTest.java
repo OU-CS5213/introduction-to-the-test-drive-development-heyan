@@ -38,7 +38,7 @@ class AWSTest {
 		int[] value_expected = {1, 2, 3};
 		AWS aws = new AWS(value_expected);
 		String test_output = aws.toString();
-		assertEquals(test_output, "test");
+		assertEquals(test_output, "AWS [values=[1, 2, 3]]");
 	}
 
 	@Test
