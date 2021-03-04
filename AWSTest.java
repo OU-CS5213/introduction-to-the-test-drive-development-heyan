@@ -19,7 +19,7 @@ class AWSTest {
 		int[] value_expected = {1, 2, 3};
 		AWS aws = new AWS(value_expected);
 		int[] actual = aws.getValues();
-		assertEquals(actual[1], value_expected[0]);
+		assertEquals(actual[1], value_expected[1]);
 
 	}
 
