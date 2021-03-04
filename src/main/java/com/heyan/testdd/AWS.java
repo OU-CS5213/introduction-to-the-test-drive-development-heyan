@@ -16,11 +16,11 @@ public class AWS {
     }
     public void removeBiggerThan(int threshold)
     {
-        for(int bPtr : values)
+        for(int i = 0; i < values.length; ++i)
         {
-            if(bPtr > threshold)
+            if(values[i] > threshold)
             {
-                bPtr = FILLER_VALUE;
+                values[i] = FILLER_VALUE;
             }
         }
     }

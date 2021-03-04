@@ -32,7 +32,7 @@ class AWSTest {
         AWS aws = new AWS(value_expected);
         aws.setValues(readytoset);
         int[] actual = aws.getValues();
-        assertEquals(actual[2], 4);
+        assertEquals(4, actual[2]);
     }
 
     @Test
@@ -40,7 +40,7 @@ class AWSTest {
         int[] value_expected = {1, 2, 3};
         AWS aws = new AWS(value_expected);
         String test_output = aws.toString();
-        assertEquals(test_output, "AWS [values=[1, 2, 3]]");
+        assertEquals("AWS [values=[1, 2, 3]]", test_output);
     }
 
     @Test
@@ -138,7 +138,7 @@ class AWSTest {
         AWS aws = new AWS(value_expected);
         aws.removeBiggerThan(4);
         String test_output = aws.toString();
-        assertEquals(test_output, "AWS [values=[1, 2, 3]]");
+        assertEquals("AWS [values=[1, 2, 3, 4, -2147483648, -2147483648, -2147483648]]", aws.toString());
     }
 
 }
