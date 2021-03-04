@@ -5,11 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a0e3be21-6bb8-4e23-9146-535b7258c216" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/introduction-to-the-test-drive-development-heyan.iml" beforeDir="false" afterPath="$PROJECT_DIR$/introduction-to-the-test-drive-development-heyan.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/heyan/testdd/AWS.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/heyan/testdd/AWS.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/heyan/testdd/AWSTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/heyan/testdd/AWSTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/heyan/testdd/AWSTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/heyan/testdd/AWSTest.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />

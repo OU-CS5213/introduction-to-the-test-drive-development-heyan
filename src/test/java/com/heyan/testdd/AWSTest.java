@@ -132,6 +132,13 @@ class AWSTest {
 
 
     }
-
+    @Test
+    void testRemoveBiggerThan() {
+        int[] value_expected = {1, 2, 3, 4, 5, 6, 7};
+        AWS aws = new AWS(value_expected);
+        aws.removeBiggerThan(4);
+        String test_output = aws.toString();
+        assertEquals(test_output, "AWS [values=[1, 2, 3]]");
+    }
 
 }
