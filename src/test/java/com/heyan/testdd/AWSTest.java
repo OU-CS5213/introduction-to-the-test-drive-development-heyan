@@ -145,7 +145,7 @@ class AWSTest {
         int[] value_expected = {1, 15, 3, 45, 5, 6, 50};
         AWS aws = new AWS(value_expected);
         aws.stepMultiplier();
-        assertEquals("AWS [values=[1, 2, 3, 4, -2147483648, -2147483648, -2147483648]]", aws.toString());
+        assertEquals("AWS [values=[2, 60, 6, 4500, 10, 12, 5000]]", aws.toString());
 
     }
 
